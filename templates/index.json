@@ -17,6 +17,7 @@
     "hero": {
       "type": "hero",
       "settings": {
+        "image_bild": "shopify:\/\/shop_images\/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg",
         "text_headline": "Short heading here",
         "richtext_text": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>",
         "url_button_link": "",
